@@ -12,13 +12,13 @@ About this project.
 
 ## Theory
 
-Essay 1
+Essay 1<br>
 Essay 2
 
 ## Books I Like
 
-Startup Operations
-How Things Work
+Startup Operations<br><br>
+How Things Work<br>
 Stewardship 
 
 
