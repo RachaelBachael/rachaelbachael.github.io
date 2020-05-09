@@ -8,7 +8,7 @@ In 2016, I co-founded MotionHall, a technology startup that works to reduce barr
 
 To experience progress, we need to be able to understand the hidden forces that dictate commercialization success and how to adjust them.
 
-As MotionHall’s CEO, I work with biopharmaceutical executives globally with a focus on successful IP transactions strategy, which is largely about managing the complexity mentioned above - between multiple institutions and people.
+As MotionHall’s CEO, I work with biopharmaceutical executives globally with a focus on successful IP transactions strategy, which is largely about managing the complexity mentioned above.
 
 ## MotionHall
 
