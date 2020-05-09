@@ -4,13 +4,9 @@ Science is hard to commercialize. Even if we could invest more money into basic 
 
 At the heart of this problem is the complexity of working at the intersection of science, government and private companies, and all of the different human personalities, stakeholding positions and talent profiles that need to decision, adjust and align in order to bring a single piece of new technology to market.
 
-To experience progress, we need to be able to understand the hidden forces that dictate commercialization success and how to adjust them.
-
 In 2016, I co-founded MotionHall, a technology startup that works to reduce barriers to science commercialization by providing biopharma’s executives with transparency into the markets for pharmaceutical IP. This is similar to what Bloomberg did for financial markets, and CoStar for commercial real estate.
 
 To experience progress, we need to be able to understand the hidden forces that dictate commercialization success and how to adjust them.
-
-In 2016, I co-founded MotionHall, a technology startup that works to reduce barriers to science commercialization by providing biopharma’s executives with transparency into the markets for pharmaceutical IP. This is similar to what Bloomberg did for financial markets, and CoStar for commercial real estate.
 
 As MotionHall’s CEO, I work with biopharmaceutical executives globally with a focus on successful IP transactions strategy, which is largely about managing the complexity mentioned above - between multiple institutions and people.
 
