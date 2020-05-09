@@ -23,7 +23,7 @@ Essay 2
 
 ## Books I Like
 
-Startup Operations<br>
+<a href="https://rachaelbachael.github.io/books/startops">Startup Operations</a><br>
 How Things Work<br>
 Stewardship<br>
 
