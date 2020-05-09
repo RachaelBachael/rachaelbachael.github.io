@@ -16,7 +16,7 @@ I founded MotionHall to help people bring new medical science to patients. Our a
  
 Our unique analytical and knowledge capabilities are made possible by years of combined research and development with Artificial Intelligence scientists, data scientists, and accomplished biotech and pharmaceutical executives, investment bankers and venture capitalists.
 
-<a href="www.motionhall.com">Visit MotionHall</a>
+<a href="https://www.motionhall.com/">Visit MotionHall</a>
 
 ## Theory
 
